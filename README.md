@@ -33,20 +33,8 @@
 
 ## 📸 Demo Preview
 
-![Virtual Calculator Demo](https://your-link-to-gif-or-image.com/preview.gif)  
+![Virtual Calculator Demo](https://youtu.be/oLNRpXEJDeE?si=cw4t8Crjv9FfY2Pa)  
 *A real-time demo of the calculator detecting finger taps on virtual buttons*
-
----
-
-## 🚀 Getting Started
-
-### 🔗 Prerequisites
-
-Make sure you have the following installed:
-```bash
-pip install opencv-python numpy
-# If using MediaPipe:
-pip install mediapipe
 
 ---
 
@@ -75,3 +63,13 @@ Ahmad Yasin
 If this project helped you or you found it interesting, feel free to ⭐ star the repo and share!
 
 ---
+
+## 🚀 Getting Started
+
+### 🔗 Prerequisites
+
+Make sure you have the following installed:
+```bash
+pip install opencv-python numpy
+# If using MediaPipe:
+pip install mediapipe
